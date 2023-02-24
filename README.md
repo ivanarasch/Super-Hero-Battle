@@ -110,10 +110,8 @@ The report should consist of two formatted sections:
 1. For each of your created child classes and `SuperHero` report the number of times they win, lose, and tie. Each class should get its own line. Underneath, report which child class won the most.
 2. For each individual superhero, report how many times they win, lose, or tie. Each superhero should get its own line. This section should be sorted by the win/loss ratio of each hero (ascending). 
 
-**Deliverable 6 :** Your code generates a report with the required sections.
 
-# Getting Stuck
-There are times when you might get stuck on some part of an assignment. It happens to the best of us. If you need assistance on a specific part of your code, then be sure to try to `push` the most recent version of your files to GitHub. It makes it much easier for your instructor and TA to provide specific feedback on individual lines of code in the files that you submit. 
+
 
 ## Acknowledgements
 The data set used in this project is modified from a public set hosted by Aman Shrivastava on Kaggle at [https://www.kaggle.com/thec03u5/complete-superhero-dataset](https://www.kaggle.com/thec03u5/complete-superhero-dataset). 
